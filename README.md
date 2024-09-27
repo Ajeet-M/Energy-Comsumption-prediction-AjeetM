@@ -81,3 +81,6 @@ methods or neural networks, and integrating additional data sources to further e
 predictive capabilities. Overall, the insights gained from this project not only inform energy
 management strategies but also provide a foundation for further research into energy
 consumption optimization in smart home environments.
+
+
+
